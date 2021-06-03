@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance and protestation, of the gentry, and commonalty of the counties of Buckingham, Bedford, Hartford, and Cambridge. Shewing the reasons why they take up armes, and their resolutions thereupon. Tendered by them at their meeting with the Parliaments forces, to the view of the world, Decemb. 7.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92419</idno><idno type="EEBO-CITATION">99860575</idno>
+  <idno type="VID">112698</idno>
+  <idno type="EEBO-PROQUEST">2240887858</idno>
+  
+            <idno type="STC">Wing R971</idno>
+            <idno type="STC">Thomason E129_22</idno>
+            <idno type="STC">ESTC R19106</idno>
+            <idno type="PROQUEST">99860575</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860575e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112698)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance and protestation, of the gentry, and commonalty of the counties of Buckingham, Bedford, Hartford, and Cambridge. Shewing the reasons why they take up armes, and their resolutions thereupon. Tendered by them at their meeting with the Parliaments forces, to the view of the world, Decemb. 7.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. N. and R. C. for F. Eaglesfield, and are to be sold at his shop at the signe of the Marigold, in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>December 9. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112698:1"/>
+            <p>THE REMONSTRANCE AND PROTESTATION, Of the GENTRY, AND COMMONALTY OF THE COUNTIES OF
+<list>
+                  <item>
+                     <hi>Buckingham,</hi>
+                  </item>
+                  <item>
+                     <hi>Bedford,</hi>
+                  </item>
+                  <item>
+                     <hi>Hartford,</hi>
+                  </item>
+                  <item>and <hi>Cambridge.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Shewing the reasons why they take up Armes, and their Resoluti<g ref="char:EOLhyphen"/>ons thereupon.</p>
+            <p>Tendered by them at their meeting with the Parliaments Forces, to the view of the world, <hi>Decemb.</hi> 7.</p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>L. N.</hi> and <hi>R. C.</hi> for <hi>F. Eaglesfield,</hi> and are to be sold at his shop at the signe of the <hi>Marigold,</hi> in <hi>Pauls</hi> Church-yard. <hi>December</hi> 9. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112698:2"/>
+            <pb n="1" facs="tcp:112698:2"/>
+            <head>The <hi>Remonstrance</hi> and <hi>Protestation</hi> of the Gentry &amp; Commonalty of the Counties of <hi>Buckingham, Bedford, Hartford,</hi> and <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> shewing the reasons why they take up Armes, and their re<g ref="char:EOLhyphen"/>solutions thereupon.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is notoriously knowne to all men how great the violence, oppressions, plun<g ref="char:EOLhyphen"/>derings, and insolencies are that those wicked men, Forrei<g ref="char:EOLhyphen"/>ners, Malignants, Papists and Trai<g ref="char:EOLhyphen"/>tors, who call themselves the <hi>Kings Army,</hi> have and doe daily exercise
+<pb n="2" facs="tcp:112698:3"/>upon the people of this Kingdome, borne to the liberty and fruition of their owne lawes; and that Commis<g ref="char:EOLhyphen"/>sions for raising of more Forces are daily issued to known Papists, whereby not only our Religion is in imminent danger to be altered to Popery, and all our iust priviledges overthrowne, but our wives ravished, our children murdered, and our estates absolutely ruined; and His Majesty, who ought in his duty to God and his Country to be the Father of his people, is now made the protector of the blasphemous and impious Crew, and of all their bloody and horrid actions, witnesse that cruell slaughter of his owne sub<g ref="char:EOLhyphen"/>jects at <hi>Braintford,</hi> even during a Treaty.</p>
+            <p>We therefore (out of a true sense of
+<pb n="4" facs="tcp:112698:3"/>the Kingdoms and our own dangers) have associated our selves, and taken up Armes, with full resolution to pro<g ref="char:EOLhyphen"/>secute the enemies of our Religion and Country, and do hereby solemnly pro<g ref="char:EOLhyphen"/>test and covenant before God, and one with another, that we will willing<g ref="char:EOLhyphen"/>ly and resolutely sacrifice our lives in this religious and just quarrell, and that wee will never lay downe these Armes, till this which is called the <hi>Kings Army</hi> be dissolved, and till the principall advisers, actors and fo<g ref="char:EOLhyphen"/>menters in these our heavie calami<g ref="char:EOLhyphen"/>ties, such as are that blasphemous and plundering Prince <hi>Rupert</hi> be bani<g ref="char:EOLhyphen"/>shed, and the Earle of <hi>Bristol,</hi> the Lord <hi>Digby,</hi> Master <hi>Piercie, Wilmot, Oneale,</hi> and Master <hi>Endymion Porter</hi> the illegall
+<pb n="4" facs="tcp:112698:4"/>Keeper of the great Seale, and <hi>Cul<g ref="char:EOLhyphen"/>peper,</hi> and those notorious Papists commanding in that Army bee brought or left to a due course of ju<g ref="char:EOLhyphen"/>stice, unlesse we shall be commanded by both Houses of Parliament to the contrary, which wee hope wee never shall.</p>
+            <p>And whereas there are divers of the Scottish Nation, who beare of<g ref="char:EOLhyphen"/>fice in that Army, against whom wee ought to expect justice; wee (out of that brotherly affection wee beare to that Nation) doe leave them to their just summons and censure, con<g ref="char:EOLhyphen"/>ceiving that Kingdome bound there<g ref="char:EOLhyphen"/>unto by that neere tye of Religion and Friendship with us, and by the Trea<g ref="char:EOLhyphen"/>ty lately so happily concluded betwixt us.</p>
+            <pb n="5" facs="tcp:112698:4"/>
+            <p>Lastly, we doe invite all our fellow Subjects of this Kingdome, as having an equall share with us in the happi<g ref="char:EOLhyphen"/>nesse or calamities thereof, to take Armes upon the same necessary grounds, and to enter with us into the same Covenant, conjuring them by their zeale to the glory of God, their affection to the honour and prosperitie of their native Country, by their loves to their wives, children, estates and liberties, to continue with us upon our just defence, till these calamities bee redressed, whereby we may all expect the blessing of God upon us and our posterity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
